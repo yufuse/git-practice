@@ -4,4 +4,4 @@ henkou
 conflictで変更
 git hub上で更新2
 
-mainで更新
+rebase-practiceで更新2
