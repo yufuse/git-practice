@@ -5,3 +5,4 @@ conflictで変更
 git hub上で更新2
 
 rebase-practiceで更新2
+stashコンフリクト用
